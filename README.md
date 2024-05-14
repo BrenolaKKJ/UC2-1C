@@ -9,10 +9,19 @@
 - Coloque como título o seu nome completo. Ex: # SEU NOME
 - insira os links dos trabalhos e atividades que você desenvolveu e participou durante esta UC.
 
-# Tereza Oliveira
+# Breno Araujo
 
 Atividade 1: Trello 
-- [Grupo](link)
 
+Grupo
+- [Swot] (https://trello.com/invite/b/Hs02Y6bG/ATTI2fb811510f10fdef855f79cba04fdd15A01AFE27/ifood)
 
+- [Gerenciador] (https://trello.com/invite/b/MCJLW9vb/ATTI3ddde3d29cd4871faffc7bdbe288a4859DD7F1B1/projeto-pessoal-futuro)
+
+----
+Individual
+- (Projeto pessoal) [https://trello.com/invite/b/MCJLW9vb/ATTI3ddde3d29cd4871faffc7bdbe288a4859DD7F1B1/projeto-pessoal-futuro]
+
+Linguagens de program. C++
+[Canva C++](https://www.canva.com/design/DAGEjWwOWGA/Me6Xn4CuGQC1s3_PGDGzMw/edit?utm_content=DAGEjWwOWGA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
